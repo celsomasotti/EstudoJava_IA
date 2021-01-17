@@ -1,1 +1,2 @@
 Estudando Git
+A documentação do Git está em https://git-scm.com/doc
